@@ -1,16 +1,7 @@
-# flutter_note_taking_app
+# flutter_note_app
+Note takes app using SQLite in Flutter
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_٢٠١٩٠٥٠٦-٠٧٠٢٠٤](https://user-images.githubusercontent.com/15935347/57208011-86af6380-6fd1-11e9-84ef-9509cd75a8a6.png)
+![Screenshot_٢٠١٩٠٥٠٦-٠٧١٤٢٥](https://user-images.githubusercontent.com/15935347/57208012-8747fa00-6fd1-11e9-8ee0-0954a7e26e6e.png)
+![Screenshot_٢٠١٩٠٥٠٦-٠٧١٤٣٢](https://user-images.githubusercontent.com/15935347/57208013-8747fa00-6fd1-11e9-82de-70e0a89ea8e3.png)
+![Screenshot_٢٠١٩٠٥٠٦-٠٦٥٨٤٥](https://user-images.githubusercontent.com/15935347/57208014-8747fa00-6fd1-11e9-839f-545a8843efd7.png)
